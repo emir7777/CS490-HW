@@ -1,0 +1,4 @@
+### Response I got from running the script:/*
+Duplicate entry found for UCID: emh29 in section: 103
+Retrieved Data:  {'status': 'success', 'data': {'UCID': 'emh29', 'first_name': 'Emir', 'last_name': 'Hussain', 'github_username': 'emir7777', 'discord_username': 'emrhsn1119_19776', 'favorite_language': 'Python', 'favorite_cartoon': 'Regular Show', 'movie_or_game_or_book': 'John Wick'}}
+*/
